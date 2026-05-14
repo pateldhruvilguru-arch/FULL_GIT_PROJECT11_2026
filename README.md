@@ -1,1 +1,2 @@
- "This project demonstrates Git operations."
+"Additional project details"
+"More updates added."
