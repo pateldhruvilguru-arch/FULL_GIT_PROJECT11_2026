@@ -1,1 +1,2 @@
 "added text file"
+"Developer bio added
